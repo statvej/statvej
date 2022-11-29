@@ -23,3 +23,6 @@ In this profile you can find my projects from:
  
  #
  
+### 42 Stats
+
+https://badge42.vercel.app/api/v2/clb2amn1u01020fl59op3e7f8/stats?cursusId=21&coalitionId=149
