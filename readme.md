@@ -25,6 +25,4 @@ In this profile you can find my projects from:
  
 ### 42 Stats
 
-https://badge42.vercel.app/api/v2/clb2amn1u01020fl59op3e7f8/stats?cursusId=21&coalitionId=149
 [![fstaryk's 42 stats](https://badge42.vercel.app/api/v2/clb2amn1u01020fl59op3e7f8/stats?cursusId=21&coalitionId=149)](https://github.com/JaeSeoKim/badge42)
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clb2amn1u01020fl59op3e7f8/stats?cursusId=21&coalitionId=149" alt="fstaryk's 42 stats" /></a>
