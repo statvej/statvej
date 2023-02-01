@@ -12,6 +12,7 @@ In this profile you can find my projects from:
  
  <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
  <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+ <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/91738456/216114460-fabf0727-3a0c-4984-9a17-4ddfe229dd4e.png"/>
  <br />
  
  #
